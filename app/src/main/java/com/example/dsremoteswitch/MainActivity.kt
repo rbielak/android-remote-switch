@@ -75,8 +75,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun waitForResponse(userMsg: String) {
-        // Implement logic to wait for SMS response (e.g., using BroadcastReceiver)
-        // For simplicity, this is a placeholder
         tvResponse.text = userMsg
     }
 
