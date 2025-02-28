@@ -4,17 +4,20 @@ code using [DeepSeek]([url](https://www.deepseek.com/)) chat bot.
 Here was my prompt:
 
 ```
-Create an Android app that has two buttons “ON” and “OFF”. When a button is pressed the code should send a preconfigured text
-message to a configured phone number. It should then wait up to 30 seconds for a response from the same phone number and display 
-it on the main screen.
+Create an Android app that has two buttons “ON” and “OFF”. When a button is
+pressed the code should send a preconfigured text message to a configured
+phone number. It should then wait up to 30 seconds for a response from
+the same phone number and display  it on the main screen.
 
-The app should include a settings page which will allow the user to configure the number to be called and the 
-text strings to be send when ON or OFF buttons are pressed.
+The app should include a settings page which will allow the user to
+configure the number to be called and the text strings to be send
+when ON or OFF buttons are pressed.
 
-Include a Settings button on main page to take you to the settings panel. Settings button should be on 
-the bottom of the screen.
+Include a Settings button on main page to take you to the settings panel.
+Settings button should be on the bottom of the screen.
 
-Don’t forget to ask the user for appropriate permissions - i.e. sending and receiving SMS.
+Don’t forget to ask the user for appropriate permissions
+- i.e. sending and receiving SMS.
 
 Call the applications com.example.DSRemoteSwitch
 
